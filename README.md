@@ -1,0 +1,2 @@
+# -GROUP-5-CPE007-FAMILY-BUDGET-TRACKER-
+This is our project in CPE007
